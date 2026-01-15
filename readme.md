@@ -31,18 +31,30 @@ Remover os agrupamentos.
 Voltar os ícones para o estado original (cinza).
 Avançar o contador de rodadas do combate.
 
----
 
 📋 Grupos e Ordem de Iniciativa
+
 O módulo organiza a fila de combate seguindo esta ordem de prioridade:
+
 🔵 Cover (Ação 1)
+
 🔴 Tiro a Distância (Ação 2)
+
 🟢 Corpo-a-Corpo (Ação 3)
+
 🟠 Movimentação (Ação 4)
+
 🟣 Curar (Ação 5)
+
 ⚪ Outros (Ação 6)
+
 💀 Derrotados (Tokens com status de derrotado)
 
+
+<img width="297" height="409" alt="image" src="https://github.com/user-attachments/assets/a07bd0e6-1337-4cee-ada6-c0d85275121e" />
+
+
+---
 
 🛠️ Instalação
 Vá até a aba Add-on Modules no seu Foundry VTT.
